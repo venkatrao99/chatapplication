@@ -1,2 +1,2 @@
 # chatapplication
-chatapplication using MERN
+chatapplication using MERN stack
